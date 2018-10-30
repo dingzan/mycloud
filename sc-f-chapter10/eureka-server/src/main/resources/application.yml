@@ -1,0 +1,29 @@
+---
+spring:
+   profiles: peer1
+server:
+   port: 8761
+eureka:
+   instance:
+      hostname: peer1
+   client:
+      serviceUrl:
+         defaultZone: http://peer2:8769/eureka/
+
+---
+spring:
+   profiles: peer2
+server:
+   port: 8769
+eureka:
+   instance:
+      hostname: peer2
+   client:
+      serviceUrl:
+         defaultZone: http://peer1:8761/eureka/
+
+   server:
+      enable-self-preservation: true   #默认开启自我保护模式
+
+#spring.cloud.inetutils   多网卡环境下的IP选择
+#eureka.client.healthcheck.enabled: true  开启eureka健康检查
