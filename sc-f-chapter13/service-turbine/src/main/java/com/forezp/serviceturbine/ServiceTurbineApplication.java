@@ -11,12 +11,7 @@ import org.springframework.cloud.netflix.turbine.EnableTurbine;
 import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
-@EnableEurekaClient
-@EnableDiscoveryClient
 @RestController
-@EnableHystrix
-@EnableHystrixDashboard
-@EnableCircuitBreaker
 @EnableTurbine
 public class ServiceTurbineApplication {
 
