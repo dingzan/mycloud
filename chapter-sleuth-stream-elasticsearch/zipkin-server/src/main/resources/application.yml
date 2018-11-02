@@ -20,7 +20,7 @@ zipkin:
     type: elasticsearch
     StorageComponent: elasticsearch
     elasticsearch:
-      cluster: elasticsearch
+      cluster: my-application
       max-requests: 30
       index: zipkin
       index-shards: 3
