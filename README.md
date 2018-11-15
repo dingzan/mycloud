@@ -1,43 +1,43 @@
 
-> è½¬è½½å‡ºå¤„ï¼š 
+> ×ªÔØ³ö´¦£º 
 > http://blog.csdn.net/forezp/article/details/70148833
 
 
-### Finchleyç‰ˆæœ¬ 
+### Finchley°æ±¾ 
 
 Spring Cloud Finchley; Spring Boot 2.0.3
 
-* [å²ä¸Šæœ€ç®€å•çš„ SpringCloud æ•™ç¨‹ | ç¬¬ä¸€ç¯‡: æœåŠ¡çš„æ³¨å†Œä¸å‘ç°ï¼ˆEurekaï¼‰(Finchleyç‰ˆæœ¬)](http://blog.csdn.net/forezp/article/details/81040925)
-* [å²ä¸Šæœ€ç®€å•çš„SpringCloudæ•™ç¨‹ | ç¬¬äºŒç¯‡: æœåŠ¡æ¶ˆè´¹è€…ï¼ˆrest+ribbonï¼‰(Finchleyç‰ˆæœ¬)](http://blog.csdn.net/forezp/article/details/81040946)
-* [å²ä¸Šæœ€ç®€å•çš„SpringCloudæ•™ç¨‹ | ç¬¬ä¸‰ç¯‡: æœåŠ¡æ¶ˆè´¹è€…ï¼ˆFeignï¼‰(Finchleyç‰ˆæœ¬)](http://blog.csdn.net/forezp/article/details/81040965)
-* [å²ä¸Šæœ€ç®€å•çš„SpringCloudæ•™ç¨‹ | ç¬¬å››ç¯‡:æ–­è·¯å™¨ï¼ˆHystrixï¼‰(Finchleyç‰ˆæœ¬)](http://blog.csdn.net/forezp/article/details/81040990)
-* [ å²ä¸Šæœ€ç®€å•çš„SpringCloudæ•™ç¨‹ | ç¬¬äº”ç¯‡: è·¯ç”±ç½‘å…³(zuul)(Finchleyç‰ˆæœ¬)](http://blog.csdn.net/forezp/article/details/81041012)
-* [å²ä¸Šæœ€ç®€å•çš„SpringCloudæ•™ç¨‹ | ç¬¬å…­ç¯‡: åˆ†å¸ƒå¼é…ç½®ä¸­å¿ƒ(Spring Cloud Config)(Finchleyç‰ˆæœ¬)](http://blog.csdn.net/forezp/article/details/81041028)
-* [å²ä¸Šæœ€ç®€å•çš„SpringCloudæ•™ç¨‹ | ç¬¬ä¸ƒç¯‡: é«˜å¯ç”¨çš„åˆ†å¸ƒå¼é…ç½®ä¸­å¿ƒ(Spring Cloud Config)(Finchleyç‰ˆæœ¬)](http://blog.csdn.net/forezp/article/details/81041045)
-* [å²ä¸Šæœ€ç®€å•çš„SpringCloudæ•™ç¨‹ | ç¬¬å…«ç¯‡: æ¶ˆæ¯æ€»çº¿(Spring Cloud Bus)(Finchleyç‰ˆæœ¬)](http://blog.csdn.net/forezp/article/details/81041062)
-* [å²ä¸Šæœ€ç®€å•çš„SpringCloudæ•™ç¨‹ | ç¬¬ä¹ç¯‡: æœåŠ¡é“¾è·¯è¿½è¸ª(Spring Cloud Sleuth)(Finchleyç‰ˆæœ¬)](http://blog.csdn.net/forezp/article/details/81041078)
-* [å²ä¸Šæœ€ç®€å•çš„SpringCloudæ•™ç¨‹ | ç¬¬åç¯‡: é«˜å¯ç”¨çš„æœåŠ¡æ³¨å†Œä¸­å¿ƒ(Finchleyç‰ˆæœ¬)](http://blog.csdn.net/forezp/article/details/81041101)
+* [Ê·ÉÏ×î¼òµ¥µÄ SpringCloud ½Ì³Ì | µÚÒ»Æª: ·şÎñµÄ×¢²áÓë·¢ÏÖ£¨Eureka£©(Finchley°æ±¾)](http://blog.csdn.net/forezp/article/details/81040925)
+* [Ê·ÉÏ×î¼òµ¥µÄSpringCloud½Ì³Ì | µÚ¶şÆª: ·şÎñÏû·ÑÕß£¨rest+ribbon£©(Finchley°æ±¾)](http://blog.csdn.net/forezp/article/details/81040946)
+* [Ê·ÉÏ×î¼òµ¥µÄSpringCloud½Ì³Ì | µÚÈıÆª: ·şÎñÏû·ÑÕß£¨Feign£©(Finchley°æ±¾)](http://blog.csdn.net/forezp/article/details/81040965)
+* [Ê·ÉÏ×î¼òµ¥µÄSpringCloud½Ì³Ì | µÚËÄÆª:¶ÏÂ·Æ÷£¨Hystrix£©(Finchley°æ±¾)](http://blog.csdn.net/forezp/article/details/81040990)
+* [ Ê·ÉÏ×î¼òµ¥µÄSpringCloud½Ì³Ì | µÚÎåÆª: Â·ÓÉÍø¹Ø(zuul)(Finchley°æ±¾)](http://blog.csdn.net/forezp/article/details/81041012)
+* [Ê·ÉÏ×î¼òµ¥µÄSpringCloud½Ì³Ì | µÚÁùÆª: ·Ö²¼Ê½ÅäÖÃÖĞĞÄ(Spring Cloud Config)(Finchley°æ±¾)](http://blog.csdn.net/forezp/article/details/81041028)
+* [Ê·ÉÏ×î¼òµ¥µÄSpringCloud½Ì³Ì | µÚÆßÆª: ¸ß¿ÉÓÃµÄ·Ö²¼Ê½ÅäÖÃÖĞĞÄ(Spring Cloud Config)(Finchley°æ±¾)](http://blog.csdn.net/forezp/article/details/81041045)
+* [Ê·ÉÏ×î¼òµ¥µÄSpringCloud½Ì³Ì | µÚ°ËÆª: ÏûÏ¢×ÜÏß(Spring Cloud Bus)(Finchley°æ±¾)](http://blog.csdn.net/forezp/article/details/81041062)
+* [Ê·ÉÏ×î¼òµ¥µÄSpringCloud½Ì³Ì | µÚ¾ÅÆª: ·şÎñÁ´Â·×·×Ù(Spring Cloud Sleuth)(Finchley°æ±¾)](http://blog.csdn.net/forezp/article/details/81041078)
+* [Ê·ÉÏ×î¼òµ¥µÄSpringCloud½Ì³Ì | µÚÊ®Æª: ¸ß¿ÉÓÃµÄ·şÎñ×¢²áÖĞĞÄ(Finchley°æ±¾)](http://blog.csdn.net/forezp/article/details/81041101)
 
-* [å²ä¸Šæœ€ç®€å•çš„SpringCloudæ•™ç¨‹ | ç¬¬åäºŒç¯‡: æ–­è·¯å™¨ç›‘æ§(Hystrix Dashboard)(Finchleyç‰ˆæœ¬)](http://blog.csdn.net/forezp/article/details/81041113)
-* [å²ä¸Šæœ€ç®€å•çš„SpringCloudæ•™ç¨‹ | ç¬¬åä¸‰ç¯‡: æ–­è·¯å™¨èšåˆç›‘æ§(Hystrix Turbine)(Finchleyç‰ˆæœ¬)](http://blog.csdn.net/forezp/article/details/81041125)
+* [Ê·ÉÏ×î¼òµ¥µÄSpringCloud½Ì³Ì | µÚÊ®¶şÆª: ¶ÏÂ·Æ÷¼à¿Ø(Hystrix Dashboard)(Finchley°æ±¾)](http://blog.csdn.net/forezp/article/details/81041113)
+* [Ê·ÉÏ×î¼òµ¥µÄSpringCloud½Ì³Ì | µÚÊ®ÈıÆª: ¶ÏÂ·Æ÷¾ÛºÏ¼à¿Ø(Hystrix Turbine)(Finchley°æ±¾)](http://blog.csdn.net/forezp/article/details/81041125)
 
-### è¿›é˜¶ç¯‡
+### ½ø½×Æª
 
-* [ Spring Cloud Sleuthè¶…è¯¦ç»†å®æˆ˜](http://blog.csdn.net/forezp/article/details/76795269)
+* [ Spring Cloud Sleuth³¬ÏêÏ¸ÊµÕ½](http://blog.csdn.net/forezp/article/details/76795269)
 
-### æºç ç¯‡ï¼š
+### Ô´ÂëÆª£º
 
-* [æ·±å…¥ç†è§£Feignä¹‹æºç è§£æ](http://blog.csdn.net/forezp/article/details/73480304)
-* [æ·±å…¥ç†è§£Eurekaä¹‹æºç è§£æ](http://blog.csdn.net/forezp/article/details/73017664)
-* [æ·±å…¥ç†è§£Ribbonä¹‹æºç è§£æ](http://blog.csdn.net/forezp/article/details/74820899)
-*  [ æ·±å…¥ç†è§£Hystrixä¹‹æ–‡æ¡£ç¿»è¯‘](http://blog.csdn.net/forezp/article/details/75333088)
-* [æ·±å…¥ç†è§£Zuulä¹‹æºç è§£æ](http://blog.csdn.net/forezp/article/details/76211680)
+* [ÉîÈëÀí½âFeignÖ®Ô´Âë½âÎö](http://blog.csdn.net/forezp/article/details/73480304)
+* [ÉîÈëÀí½âEurekaÖ®Ô´Âë½âÎö](http://blog.csdn.net/forezp/article/details/73017664)
+* [ÉîÈëÀí½âRibbonÖ®Ô´Âë½âÎö](http://blog.csdn.net/forezp/article/details/74820899)
+*  [ ÉîÈëÀí½âHystrixÖ®ÎÄµµ·­Òë](http://blog.csdn.net/forezp/article/details/75333088)
+* [ÉîÈëÀí½âZuulÖ®Ô´Âë½âÎö](http://blog.csdn.net/forezp/article/details/76211680)
 
-### ç•ªå¤–ç¯‡ï¼š
+### ·¬ÍâÆª£º
 
-* [å¦‚ä½•ä½¿ç”¨MongoDB+Springbootå®ç°åˆ†å¸ƒå¼ID?](http://blog.csdn.net/forezp/article/details/69056017)
-* [ å¦‚ä½•åœ¨springcloudåˆ†å¸ƒå¼ç³»ç»Ÿä¸­å®ç°åˆ†å¸ƒå¼é”ï¼Ÿ](http://blog.csdn.net/forezp/article/details/68957681)
-* [ å¦‚ä½•ç”¨Redlockå®ç°åˆ†å¸ƒå¼é”](http://blog.csdn.net/forezp/article/details/70305336)
-* [ å¦‚ä½•åœ¨IDEAå¯åŠ¨å¤šä¸ªSpring Bootå·¥ç¨‹å®ä¾‹](http://blog.csdn.net/forezp/article/details/76408139)
-* [ JWTå¦‚ä½•åœ¨Spring Cloudå¾®æœåŠ¡ç³»ç»Ÿä¸­åœ¨æœåŠ¡ç›¸äº’è°ƒæ—¶ä¼ é€’](http://blog.csdn.net/forezp/article/details/78676036)
+* [ÈçºÎÊ¹ÓÃMongoDB+SpringbootÊµÏÖ·Ö²¼Ê½ID?](http://blog.csdn.net/forezp/article/details/69056017)
+* [ ÈçºÎÔÚspringcloud·Ö²¼Ê½ÏµÍ³ÖĞÊµÏÖ·Ö²¼Ê½Ëø£¿](http://blog.csdn.net/forezp/article/details/68957681)
+* [ ÈçºÎÓÃRedlockÊµÏÖ·Ö²¼Ê½Ëø](http://blog.csdn.net/forezp/article/details/70305336)
+* [ ÈçºÎÔÚIDEAÆô¶¯¶à¸öSpring Boot¹¤³ÌÊµÀı](http://blog.csdn.net/forezp/article/details/76408139)
+* [ JWTÈçºÎÔÚSpring CloudÎ¢·şÎñÏµÍ³ÖĞÔÚ·şÎñÏà»¥µ÷Ê±´«µİ](http://blog.csdn.net/forezp/article/details/78676036)
 
